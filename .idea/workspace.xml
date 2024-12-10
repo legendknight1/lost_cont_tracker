@@ -4,24 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="076fc859-de49-4c51-8cb2-d41a3aa1769e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FateLostContinuum_Tracker.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Creature.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/District.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Encounter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Familiar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Master.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Servant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Start.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Start.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StatParameters.java" afterDir="false" />
+    <list default="true" id="076fc859-de49-4c51-8cb2-d41a3aa1769e" name="Changes" comment="will it end">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Start.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/Start.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Start.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Start.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +40,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH": "2",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true"
   }
@@ -67,6 +54,19 @@
       <option name="presentableId" value="Default" />
       <updated>1733833208699</updated>
     </task>
+    <task id="LOCAL-00001" summary="will it end">
+      <option name="closed" value="true" />
+      <created>1733839048276</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1733839048276</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="will it end" />
+    <option name="LAST_COMMIT_MESSAGE" value="will it end" />
   </component>
 </project>

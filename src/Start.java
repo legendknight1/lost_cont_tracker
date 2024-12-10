@@ -4,8 +4,24 @@ import java.awt.event.ActionListener;
 
 public class Start extends JFrame{
     private JPanel contentPane;
-    private JTextPane textPane1;
-    private JComboBox comboBox1;
+    private JButton templeButton;
+    private JButton shoppButton;
+    private JButton oldresaButton;
+    private JButton hsButton;
+    private JButton miyamiButton;
+    private JButton oldresbButton;
+    private JButton oldDtButton;
+    private JButton westresButton;
+    private JButton riversideButton;
+    private JButton oldOustkirtsButton;
+    private JButton newOutskirtsAButton;
+    private JButton newDowntownButton;
+    private JButton harboutButton;
+    private JButton hinterlandsButton;
+    private JButton newOutskirtsBButton;
+    private JButton newOutskirtsCButton;
+    private JButton churchButton;
+    private JButton shintoButton;
     private JCheckBox checkBox1;
 
     /**
@@ -24,5 +40,9 @@ public class Start extends JFrame{
                 //function on tick
             }
         });
+    }
+
+    private void createUIComponents() {
+        // TODO: place custom component creation code here
     }
 }
